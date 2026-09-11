@@ -134,7 +134,7 @@ The early and intermediate phases remain as vendor-neutral as practical.
 
 | Day | Topic | Article | Code | Status |
 |---:|---|---|---|---|
-| 01 | Why Python for AI? Setting Up Your AI Development Environment | [Read Article](Python_AI_GenAI_Day01\Articles\day01_why_python_for_ai.md) | [View Code](Python_AI_GenAI_Day01\Python\day01_environment_setup\main.py/) | ✅ |
+| 01 | Why Python for AI? Setting Up Your AI Development Environment | [Read Article](Python_AI_GenAI_Day01/Articles/day01_why_python_for_ai.md) | [View Code](Python_AI_GenAI_Day01/Python/day01_environment_setup/main.py/) | ✅ |
 | 02 | Variables, Values and Data Types | Coming Soon | Coming Soon | ⏳ |
 | 03 | Working with Strings — Essential for AI Prompts and Text | Coming Soon | Coming Soon | ⏳ |
 | 04 | Numbers, Booleans and Python Operators | Coming Soon | Coming Soon | ⏳ |
@@ -164,7 +164,7 @@ You will learn:
 
 ### Read the Tutorial
 
-➡️ [Day 01 — Why Python for AI?](Python_AI_GenAI_Day01\Articles\day01_why_python_for_ai.md)
+➡️ [Day 01 — Why Python for AI?](Python_AI_GenAI_Day01/Articles/day01_why_python_for_ai.md)
 
 ### Run the Code
 
