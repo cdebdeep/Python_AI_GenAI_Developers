@@ -3,6 +3,9 @@
 
 # Python for AI & GenAI Developers
 ## From Fundamentals to Agentic AI
+# [An Intiative by TechLienzo](https://www.youtube.com/@TechLienzo-ue7dn)
+Click the link here to know more 👉[Visit our website](https://www.youtube.com/@TechLienzo-ue7dn)
+
 
 > **80 Days. One progressive journey. From Python beginner to AI / GenAI developer.**
 
