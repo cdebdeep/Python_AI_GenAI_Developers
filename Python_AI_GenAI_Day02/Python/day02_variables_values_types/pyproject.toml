@@ -1,0 +1,7 @@
+[project]
+name = "day02-variables-values-types"
+version = "0.1.0"
+description = "Day 02 of Python for AI & GenAI Developers"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
